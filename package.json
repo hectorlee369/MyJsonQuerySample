@@ -1,0 +1,14 @@
+{
+  "name": "myjsonquerysample",
+  "version": "1.0.0",
+  "description": "my json query sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hector lee",
+  "license": "MIT",
+  "dependencies" :{
+	  "json-query":"2.1.0"
+  }
+}
